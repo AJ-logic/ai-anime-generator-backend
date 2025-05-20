@@ -1,0 +1,6 @@
+waifu-diffusion/
+venv/
+*.ckpt
+*.safetensors
+*.pth
+*.pt
